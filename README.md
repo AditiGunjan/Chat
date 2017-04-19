@@ -11,3 +11,12 @@ other features:
 -Enabled port forwarding 
 -use of dynamic host name for server to enable global access(communication on two different machines)
 
+How to run the application:
+1) download the client and server files in your system and open them using netbeans
+2) run the server first (login_server.java) 
+3) start the client (login_win.java)
+4) login with valid credentials or register as a new user
+5) Now multiple users can chat as manager or employee and can use other features such as special announcements, personal chat, emoticons and many more
+
+NOTE: for initial setup and running it is recommended to run all the files on localhost.
+
